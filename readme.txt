@@ -7,3 +7,4 @@ com1
 com2
 com3
 Creating a new branch is quick AND simple
+test no fast forward

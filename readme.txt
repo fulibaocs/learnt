@@ -9,3 +9,4 @@ com3
 Creating a new branch is quick AND simple
 test no fast forward
 Git is a free soft.
+gitFulbRes modify.

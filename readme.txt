@@ -5,3 +5,4 @@ Git tracks changes of files.
 add --
 com1
 com2
+com3

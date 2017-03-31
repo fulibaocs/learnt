@@ -6,4 +6,4 @@ add --
 com1
 com2
 com3
-Creating a new branch is quick
+Creating a new branch is quick and simple
